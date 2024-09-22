@@ -1,1 +1,1 @@
-{"flutter":{"platforms":{"dart":{"lib/firebase_options.dart":{"projectId":"ticketavion-6887b","configurations":{"web":"1:1022042698843:web:5f0441cdf098590d077b7e"}}}}}}
+{"flutter":{"platforms":{"dart":{"lib/firebase_options.dart":{"projectId":"ticketavion-6887b","configurations":{"web":"1:1022042698843:web:28d7f5c49a20bb84077b7e"}}},"android":{"default":{"projectId":"ticketavion-6887b","appId":"1:1022042698843:android:edeaeb1c21f79952077b7e","fileOutput":"android/app/google-services.json"}}}}}

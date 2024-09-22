@@ -1,4 +1,4 @@
-import 'package:examen2_ticketavion/Presentation/Screens/detalleticket/detalleticket_screen.dart';
+
 import 'package:examen2_ticketavion/Presentation/Screens/home/home_screen.dart';
 import 'package:examen2_ticketavion/Presentation/Screens/ticketlist/ticketlist_screen.dart';
 import 'package:go_router/go_router.dart';
@@ -17,11 +17,6 @@ GoRoute(
   builder: (context, state) => const TicketlistScreen(),
   
   ),
-  GoRoute(
-  path: '/detalleticket',
-  builder: (context, state) => const DetalleticketScreen(),
-  
-  )
 
 ]
 

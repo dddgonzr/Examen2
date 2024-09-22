@@ -54,10 +54,11 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions web = FirebaseOptions(
     apiKey: 'AIzaSyB4DdSIkiHQ6CqeIq32lt_RUiovRzo33_M',
-    appId: '1:1022042698843:web:5f0441cdf098590d077b7e',
+    appId: '1:1022042698843:web:28d7f5c49a20bb84077b7e',
     messagingSenderId: '1022042698843',
     projectId: 'ticketavion-6887b',
     authDomain: 'ticketavion-6887b.firebaseapp.com',
     storageBucket: 'ticketavion-6887b.appspot.com',
   );
+
 }
